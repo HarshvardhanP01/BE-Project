@@ -1,0 +1,148 @@
+@inproceedings{1,
+  title={Engineering students and professionals living with a mental illness: an exploration of their experiences and challenges},
+  author={S{\'a}nchez-Pe{\~n}a, Matilde and Xu, Xinrui Rose and Ramirez, Nichole and Sambamurthy, Nikitha},
+  booktitle={2019 IEEE Frontiers in Education Conference (FIE)},
+  pages={1--5},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{2,
+  title={A comparison study of methods to solve the mental health problem between the engineering and non-engineering students},
+  author={Lee, MF and Adam, WMH Wan},
+  booktitle={2016 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)},
+  pages={179--183},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{3,
+  title={Deep learning for mobile mental health: Challenges and recent advances},
+  author={Han, Jing and Zhang, Zixing and Mascolo, Cecilia and Andr{\'e}, Elisabeth and Tao, Jianhua and Zhao, Ziping and Schuller, Bj{\"o}rn W},
+  journal={IEEE Signal Processing Magazine},
+  volume={38},
+  number={6},
+  pages={96--105},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{4,
+  title={Addressing mental health epidemic among university students via web-based, self-screening, and referral system: a preliminary study},
+  author={Kim, Eung-Hun and Coumar, Anil and Lober, William B and Kim, Yongmin},
+  journal={IEEE Transactions on Information Technology in Biomedicine},
+  volume={15},
+  number={2},
+  pages={301--307},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{5,
+  title={Analysis of the architecture of the mental health education system for college students based on the Internet of Things and privacy security},
+  author={Xiao, Ruijian and Liu, Xingeng},
+  journal={IEEE Access},
+  volume={9},
+  pages={81089--81096},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{6,
+  title={Application of machine learning methods in mental health detection: a systematic review},
+  author={Abd Rahman, Rohizah and Omar, Khairuddin and Noah, Shahrul Azman Mohd and Danuri, Mohd Shahrul Nizam Mohd and Al-Garadi, Mohammed Ali},
+  journal={Ieee Access},
+  volume={8},
+  pages={183952--183964},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{7,
+  title={Benefits and Challenges of Video Consulting for Mental Health Diagnosis and Follow-Up: A Qualitative Study in Community Care},
+  author={Sheikh, Yusuf and Ali, Ayesha and Khasati, Aya and Hasanic, Alan and Bihani, Urvi and Ohri, Raja and Muthukumar, Keerthi and Barlow, James},
+  journal={International Journal of Environmental Research and Public Health},
+  volume={20},
+  number={3},
+  pages={2595},
+  year={2023},
+  publisher={MDPI}
+}
+
+@inproceedings{8,
+  title={Data mining and management system design and application for college student mental health},
+  author={Qinghua, Jiang},
+  booktitle={2016 International Conference on Intelligent Transportation, Big Data \& Smart City (ICITBS)},
+  pages={410--413},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{9,
+  title={Digital psychiatry: Risks and opportunities for public health and wellbeing},
+  author={Burr, Christopher and Morley, Jessica and Taddeo, Mariarosaria and Floridi, Luciano},
+  journal={IEEE Transactions on Technology and Society},
+  volume={1},
+  number={1},
+  pages={21--33},
+  year={2020},
+  publisher={IEEE}
+}
+
+
+@inproceedings{10,
+  title={Optimal Modeling of College Students' Mental Health Based on Brain-Computer Interface and Imaging Sensing},
+  author={Li, Jing},
+  booktitle={2021 5th International Conference on Intelligent Computing and Control Systems (ICICCS)},
+  pages={772--775},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{11,
+  title={Prediction of mental health problems among children using machine learning techniques},
+  author={Sumathi, MR and Poorna, B},
+  journal={International Journal of Advanced Computer Science and Applications},
+  volume={7},
+  number={1},
+  year={2016},
+  publisher={Science and Information (SAI) Organization Limited}
+}
+
+@article{12,
+  title={Using machine learning and thematic analysis methods to evaluate mental health apps based on user reviews},
+  author={Oyebode, Oladapo and Alqahtani, Felwah and Orji, Rita},
+  journal={IEEE Access},
+  volume={8},
+  pages={111141--111158},
+  year={2020},
+  publisher={IEEE}
+}
+
+@inproceedings{13,
+  title={Sentiment analysis for depression detection on social networks},
+  author={Tao, Xiaohui and Zhou, Xujuan and Zhang, Ji and Yong, Jianming},
+  booktitle={Advanced Data Mining and Applications: 12th International Conference, ADMA 2016, Gold Coast, QLD, Australia, December 12-15, 2016, Proceedings 12},
+  pages={807--810},
+  year={2016},
+  organization={Springer}
+}
+
+@incollection{14,
+  title={E-Mental Health: Contributions, Challenges, and Research Opportunities from a Computer Science Perspective},
+  author={Becker, Dennis},
+  booktitle={Encyclopedia of E-Health and Telemedicine},
+  pages={928--936},
+  year={2016},
+  publisher={IGI Global}
+}
+
+@article{15,
+  title={A depression recognition method for college students using deep integrated support vector algorithm},
+  author={Ding, Yan and Chen, Xuemei and Fu, Qiming and Zhong, Shan},
+  journal={IEEE access},
+  volume={8},
+  pages={75616--75629},
+  year={2020},
+  publisher={IEEE}
+}
